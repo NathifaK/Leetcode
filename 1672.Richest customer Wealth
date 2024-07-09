@@ -8,3 +8,5 @@ class Solution:
             if max<wealth[i]:
                 max=wealth[i]
         return max
+
+
